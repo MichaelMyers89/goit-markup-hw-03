@@ -1,0 +1,96 @@
+.body_style {font-family: "Roboto", sans-serif;
+    color: #434455
+        
+            
+    
+;}
+.logo_link {text-decoration: none;
+            font-family:'Raleway', sans-serif ;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 1.17;
+            letter-spacing: 0.03em;
+            color:#4d5ae5 ;
+            text-transform: uppercase;}
+.logotext { font-family:"Roboto", sans-serif ;
+    color: #434455
+}
+.ul_style {font-weight: 500;
+     line-height: 1.5;
+            letter-spacing: 0.02em;
+            font-size: 16px;
+            list-style: none;
+            font-weight: 500;
+            
+            
+           
+            
+}
+.link_color {color:#434455;
+text-decoration: none;}
+.link_colortwo{color: #2e2f42;}
+a:hover   {color:#404bbf}
+a:active  {color:#404bbf}
+a:focus   {color: #404bbf;}
+
+.contact  { font-style: normal;
+        
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+    .head{font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+    letter-spacing: 0.02em;
+color: #2e2f42;}
+
+    
+    
+    
+    
+    
+    
+
+.texts {line-height: 1.5;
+    letter-spacing: 0.02em;}
+    
+    
+.ul_style2{list-style: none;}
+
+.sectionthree{background-color:#F4F4FD ;}
+
+.sectionthreehead{font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2e2f42;}
+
+.ul_style3{list-style: none;
+}
+.sectionthreelist{background-color: #ffffff;}
+.firs-area{ 
+        background-color: #2e2f42 ;}
+        .head-style{
+                font-size: 56px;
+                line-height: 1.07;
+                text-align: center;
+                letter-spacing: 0.02em;
+                color:#ffffff ;}
+                .button {background-color:#4D5AE5;
+                        font-family: "Roboto", sans-serif ;
+                        font-weight: 500;
+                        font-size: 16px;
+                        line-height: 1.5;
+                        letter-spacing: 0.04em;
+                        color:#ffffff ;
+                        cursor: pointer; }
+                .hvr:hover {background-color: #404BBF
+                }        
+                .hvr:focus{background-color: #404BBF}
+                .section2{list-style: none;}
+    .footer{line-height: 1.5;
+           letter-spacing: 0.02em;
+        color:#f4f4fd; }
