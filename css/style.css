@@ -24,12 +24,13 @@
             list-style: none;
             font-weight: 500;
             display: flex;
-            gap: 40px;}
+            gap: 40px;
+            padding-top: 24px;
+            padding-bottom: 24px;}
 
 .link_color {color:#434455;
 text-decoration: none;
-padding-top: 24px;
-padding-bottom: 24px;
+
 display: flex;
 gap: 40px;}
 .link_colortwo{color: #2e2f42;}
@@ -98,8 +99,6 @@ color: #2e2f42;}
     .footer{line-height: 1.5;
            letter-spacing: 0.02em;
         color:#f4f4fd; }
-        .header-style{border-bottom: 1px solid; color: #e7e9fc; width: 1158px;
-            padding-left: 15px;
-        padding-right: 15px;}
-        .div-style{display: flex; align-items: center;
-        }
+        .header-style{border-bottom: 1px solid; color: #e7e9fc; width: 1159px; padding-left:15px;
+        padding-right: 15px; }
+        
