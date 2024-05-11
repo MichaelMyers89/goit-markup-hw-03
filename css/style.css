@@ -99,4 +99,7 @@ color: #2e2f42;}
            letter-spacing: 0.02em;
         color:#f4f4fd; }
         .header-style{border-bottom: 1px solid; color: #e7e9fc;}
-        .div-style{display: flex;}
+        .div-style{display: flex;
+        width: 1158px;
+    padding-left: 15px;
+padding-right: 15px;}
