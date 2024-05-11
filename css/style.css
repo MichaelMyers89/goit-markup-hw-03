@@ -25,7 +25,10 @@
             gap: 40px;}
 
 .link_color {color:#434455;
-text-decoration: none;}
+text-decoration: none;
+padding: 24px 0 24px;
+display: flex;
+gap: 40px;}
 .link_colortwo{color: #2e2f42;}
 a:hover   {color:#404bbf}
 a:active  {color:#404bbf}
