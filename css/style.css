@@ -21,11 +21,9 @@
             font-size: 16px;
             list-style: none;
             font-weight: 500;
-            
-            
-           
-            
-}
+            display: flex;
+            gap: 40px;}
+
 .link_color {color:#434455;
 text-decoration: none;}
 .link_colortwo{color: #2e2f42;}
@@ -94,9 +92,10 @@ color: #2e2f42;}
     .footer{line-height: 1.5;
            letter-spacing: 0.02em;
         color:#f4f4fd; }
-        .nav-style{border-bottom: 1px solid #e7e9fc;}
+        .nav-style{display: flex; container: normal; width: 1158px; margin: 0 auto;
+            padding-left:15px; padding-right: 15px;
+            }
         .office-style{display: flex;
             }
-        .div-container{display: flex; container: normal; width: 1158px; margin: 0 auto;
-        padding-left:15px; padding-right: 15px;}
+        .div-container{display: flex;align-items: center; }
         
