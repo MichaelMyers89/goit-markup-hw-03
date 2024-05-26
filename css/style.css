@@ -92,7 +92,9 @@ padding-bottom: 120px;}
     margin-bottom: 8px;
 
 }
-.sectionthreelist{background-color: #ffffff;}
+.sectionthreelist{background-color: #ffffff;
+width: calc(100%-72px);
+border-radius: 0px 0px 4px 4px;}
 .firs-area{ 
         background-color: #2e2f42 ;
     padding: 188px 0;}
