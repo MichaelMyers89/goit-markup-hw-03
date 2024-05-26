@@ -61,7 +61,8 @@ color: #2e2f42;
     
 
 .texts {line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+text-align: center;}
     
     
 .ul_style2{list-style: none;}
@@ -71,16 +72,25 @@ gap: 24px
 margin-right: 24px;}
 .li-style{width: calc(100%-72px);}
 
-.sectionthree{background-color:#F4F4FD ;}
+.sectionthree{background-color:#F4F4FD ;
+padding-top: 120px;
+padding-bottom: 120px;}
 
 .sectionthreehead{font-size: 36px;
         line-height: 1.11;
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        color: #2e2f42;}
+        color: #2e2f42;
+    margin-bottom: 72px;}
 
 .ul_style3{list-style: none;
+    display: flex;
+    gap: 24px;
+    margin-right: 24px;
+    text-align: center;
+    margin-bottom: 8px;
+
 }
 .sectionthreelist{background-color: #ffffff;}
 .firs-area{ 
