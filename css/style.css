@@ -63,6 +63,10 @@ color: #2e2f42;}
     
     
 .ul_style2{list-style: none;}
+.section2{display: flex;
+gap: 24px
+;
+margin-right: 24px;}
 
 .sectionthree{background-color:#F4F4FD ;}
 
@@ -112,4 +116,6 @@ color: #2e2f42;}
            letter-spacing: 0.02em;
         color:#f4f4fd; }
 .section-two {padding-top: 120px; padding-bottom: 120px;}  
+.hidden-head{ visibility: hidden ;}
+
         
